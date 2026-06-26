@@ -1,0 +1,13 @@
+# Dependências e Compilação
+node_modules/
+dist/
+
+# Arquivos de Configuração Local e Senhas (CRÍTICO)
+.env
+.env.local
+
+# Logs e Cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
