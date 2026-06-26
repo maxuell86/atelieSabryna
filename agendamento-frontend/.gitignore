@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+
+# Produção / Compilação
+dist/
+.next/
+out/
+build/
+
+# Variáveis de ambiente (Segurança)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+.eslintcache
